@@ -1,0 +1,6 @@
+name: Hoppers
+main: JOrlex\main
+version: 1.0.0
+api: 3.0.0
+author: JOrlex
+description: wrking plugin for 3.x.x which implemments Hoppers into the game
